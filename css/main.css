@@ -2,8 +2,12 @@
 	box-sizing: border-box;
 	padding: 0px;
 	margin:0px;
+}
+
+body {
 	font-family: 'Roboto';
 }
+
 header{
 	background-color: #FCCE09;
 	height: 670px;
